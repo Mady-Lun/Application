@@ -11,7 +11,7 @@
 <form action="/action_page.php">
 <form> 
 <!-- Name-->
-<body>
+
     <label for="fname">Given name:</label><br>
     <input type="text" id="fname" name="fname"><br>
     <label for="lname">Family name:</label><br>
@@ -35,7 +35,7 @@
 <h2 style="font-size: larger;">Proficiency</h2>
 
 <!-- Roles -->
-<body>
+
     <label for="skill">Please choose one role.</label><br>
     <input type="radio" id="skill" name="profession" value="General Manager">
     <label for="General Manager">General Manager</label><br>
@@ -45,18 +45,18 @@
     <label for="finance">Psychology Specialist</label><br><hr>
 
 <!-- Experience -->
-<body>
+
     <h2 style="font-size: larger;"><label for="experience">Year(s) of experience.</label></h2><br>
     <input type="text" id="experience" name="experience">
 
 <!-- Salary -->
-<body>
+
     <h2 style="font-size: larger;"><label for="experience">Previous salary</label></h2><br>
     <input type="text" id="experience" name="experience">
-<body>
+
     <h2 style="font-size: large;"><label for="experience">Expected salary for the chosen role.</label></h2><br>
     <input type="text" id="experience" name="experience"><br><hr>
-</body>
+
 <!-- Educational background -->
 
 <h2 style="font-size: larger;">Educational Background</h2>
@@ -79,7 +79,7 @@
     <label for="Interview1">25-Sept-2023, 14pm-14:25pm</label><br>
     <input type="checkbox" id="Interview3" name="interview3" value="25-Sept-2023, 15:35pm-16pm">
     <label for="Interview1">25-Sept-2023, 15:35pm-16pm</label><br><hr>
-<body>
+
     <P style="font-size: 15px; font-family: Verdana, Geneva, Tahoma, sans-serif;">Should you have any question, kindly let us know.</P>
     <input type="text" id="question" name="question"><hr>
   
