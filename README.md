@@ -53,7 +53,7 @@
 <body>
     <h2 style="font-size: larger;"><label for="experience">Previous salary</label></h2><br>
     <input type="text" id="experience" name="experience">
-
+<body>
     <h2 style="font-size: large;"><label for="experience">Expected salary for the chosen role.</label></h2><br>
     <input type="text" id="experience" name="experience"><br><hr>
 
